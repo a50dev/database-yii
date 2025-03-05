@@ -5,7 +5,7 @@
     "require": {
         "php": "^8.2",
         "a50/database": "dev-main",
-        "yiisoft/db-pgsql": "^1.3"
+        "yiisoft/db-pgsql": "^1.3.0"
     },
     "license": "MIT",
     "authors": [
